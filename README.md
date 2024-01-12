@@ -1,4 +1,4 @@
-Portfolio with React, Typescript, Tailwind and Azure.
+Portfolio with React, Typescript, Tailwind.
 
 ## 💻 Technologies
 
